@@ -11,7 +11,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #f866f9;
+  color: #f1c40f;
   text-decoration: none;
 }
 
@@ -95,7 +95,7 @@ h4 span:first-child {
 }
 
 #content h3 {
-  color: #f866f9;
+  color: #f1c40f;
   font-size: 26px;
   margin-top: -4px;
 }
